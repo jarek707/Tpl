@@ -1,0 +1,13 @@
+// DB connect data
+[global]
+server 		 localhost
+user 		 itvuser
+passwd 		 ZaP42yX
+database	 itv 
+[tpl]
+className	expandable foldable
+formId		editForm
+fieldsetId	editFs
+inputType 	checkbox
+[files]
+jsGenDir 	jsGen

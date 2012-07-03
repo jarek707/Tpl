@@ -1,0 +1,1 @@
+rm a; clear ; make ; echo "---"; time a 4  ${1}; echo "---------------" ; ls -sh f.js | cut -c1-4
